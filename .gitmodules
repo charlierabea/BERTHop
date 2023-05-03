@@ -1,0 +1,4 @@
+[submodule "Transformers-VQA"]
+	path = Transformers-VQA
+	url = https://github.com/charlierabea/Transformers-VQA.git
+	branch = master
